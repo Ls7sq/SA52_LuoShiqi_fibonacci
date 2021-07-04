@@ -1,0 +1,4 @@
+create a jar by using spring boot maven plugin
+create DockerFile
+build Docker Image
+port mapping
